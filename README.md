@@ -14,16 +14,12 @@ I am interested in opening a surf and shake shop that would serve surfboards and
 
 <img width="166" alt="Screen Shot 2022-01-30 at 5 32 14 PM" src="https://user-images.githubusercontent.com/93900628/151723131-4487d165-3737-4623-816a-03a8a108d40b.png">                       <img width="199" alt="Screen Shot 2022-01-30 at 5 34 46 PM" src="https://user-images.githubusercontent.com/93900628/151723138-e00a61c6-5e6c-4197-8928-44ff1001ac3e.png">
 
+The variability in temperature between June and December is very small:
 
-- The mean temperature for June (74F) and December (71F) is a difference of 3 degrees and the std. dev. is almost the same (June: 3.2 vs Dec: 3.7) 
-- The max. temperature is only 2 degrees Farenheit lower in December but the min temperature is 8 degrees lower in December.
-- 
-- 
--
+- The mean temperature for June (74F) and December (71F) is a difference of 3 degrees while the std. dev. is almost the same (June: 3.2 vs Dec: 3.7), the weather all year round is warm enough for Surfing and Shakes.
 
+- The max. temperature for June (85F) and December (83F) is a difference of 2 degrees.
 
-
-
-
+- The min. temperature for June (64F) and December(56F) is a difference of 8 degress, for the cooler temperatures in December there could be some seasonal flavors and promotions to attract customers when things may slow down.
 
 ###  Summary:
