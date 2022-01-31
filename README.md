@@ -23,3 +23,16 @@ The variability in temperature between June and December is very small:
 - The min. temperature for June (64F) and December(56F) is a difference of 8 degress, for the cooler temperatures in December there could be some seasonal flavors and promotions to attract customers when things may slow down.
 
 ###  Summary:
+
+Based on the analysis on the temperature alone we can conclude that there are the variability in temperature through out year is small.
+
+Additional analysis that could impact weather:
+
+- Precipatation:
+
+![Screen Shot 2022-01-30 at 7 49 26 PM](https://user-images.githubusercontent.com/93900628/151728528-1581d714-f182-467c-b564-53da2ab57ae1.png)               ![Screen Shot 2022-01-30 at 7 49 11 PM](https://user-images.githubusercontent.com/93900628/151728489-f459fa52-6363-4312-b3cf-89777958cbb2.png)
+
+The precipatation is much higher in December,based on the mean percepatation in December rainfall is moderate but anything above 0.30 inches would be considered as heavy rainfall, if we had more data on time stamps on when it rained and the duration that would determine if we are seeing short burst of showers and if it is raining during open hours or if it is raining at night when the store is closed.
+
+- Cloudiness
+- 
